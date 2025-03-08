@@ -6,3 +6,4 @@ int b=12;
 int c=a+b;
 printf("sum of a and b:"&c)
 }
+TTTTTT
